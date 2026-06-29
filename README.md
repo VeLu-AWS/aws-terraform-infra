@@ -92,5 +92,5 @@ terraform destroy
 ## Author
 
 **C Sengottuvelu**
-AWS Cloud & DevOps Engineer | SAA-C03 Certified
+AWS Cloud & DevOps Engineer | AWS Certified Solutions Architect – Associate (SAA-C03)
 Bengaluru, India
